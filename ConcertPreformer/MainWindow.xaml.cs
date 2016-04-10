@@ -27,18 +27,10 @@ namespace ConcertPreformer
         }
 
             SoundPlayer sound;
-        bool config;
         bool changemode = false;
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            if (File.Exists(@"config.txt"))
-            {
-                config = true;
-            }
-            else
-            {
-                config = false;
-            }
+            Directory.CreateDirectory(@"sounds");
         }
 
         private void Window_KeyDown(object sender, KeyEventArgs e)
@@ -74,6 +66,8 @@ namespace ConcertPreformer
                         string filename = dlg.FileName;
 
                         File.Move(filename, @"sounds/" + e.Key + @".wav");
+                        changemode = false;
+
                     }
                     catch
                     {
@@ -86,6 +80,8 @@ namespace ConcertPreformer
                         {
                            //github issues
                         }
+                        changemode = false;
+
                     }
                 }
             }
