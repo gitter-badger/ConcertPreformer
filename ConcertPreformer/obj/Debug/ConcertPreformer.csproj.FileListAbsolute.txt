@@ -1,0 +1,28 @@
+C:\Users\Solomon\Documents\Code\ConcertPreformer\bin\Debug\ConcertPreformer.exe.config
+C:\Users\Solomon\Documents\Code\ConcertPreformer\obj\Debug\ConcertPreformer.csprojResolveAssemblyReference.cache
+C:\Users\Solomon\Documents\Code\ConcertPreformer\obj\Debug\MainWindow.g.cs
+C:\Users\Solomon\Documents\Code\ConcertPreformer\obj\Debug\App.g.cs
+C:\Users\Solomon\Documents\Code\ConcertPreformer\obj\Debug\ConcertPreformer_MarkupCompile.cache
+C:\Users\Solomon\Documents\Code\ConcertPreformer\obj\Debug\ConcertPreformer_MarkupCompile.lref
+C:\Users\Solomon\Documents\Code\ConcertPreformer\bin\Debug\ConcertPreformer.exe
+C:\Users\Solomon\Documents\Code\ConcertPreformer\bin\Debug\ConcertPreformer.pdb
+C:\Users\Solomon\Documents\Code\ConcertPreformer\obj\Debug\MainWindow.baml
+C:\Users\Solomon\Documents\Code\ConcertPreformer\obj\Debug\ConcertPreformer.g.resources
+C:\Users\Solomon\Documents\Code\ConcertPreformer\obj\Debug\ConcertPreformer.Properties.Resources.resources
+C:\Users\Solomon\Documents\Code\ConcertPreformer\obj\Debug\ConcertPreformer.csproj.GenerateResource.Cache
+C:\Users\Solomon\Documents\Code\ConcertPreformer\obj\Debug\ConcertPreformer.exe
+C:\Users\Solomon\Documents\Code\ConcertPreformer\obj\Debug\ConcertPreformer.pdb
+C:\VS Projects\ConcertPreformer\bin\Debug\ConcertPreformer.exe.config
+C:\VS Projects\ConcertPreformer\obj\Debug\ConcertPreformer.exe
+C:\VS Projects\ConcertPreformer\obj\Debug\ConcertPreformer.pdb
+C:\VS Projects\ConcertPreformer\bin\Debug\ConcertPreformer.exe
+C:\VS Projects\ConcertPreformer\bin\Debug\ConcertPreformer.pdb
+C:\VS Projects\ConcertPreformer\obj\Debug\ConcertPreformer.csprojResolveAssemblyReference.cache
+C:\VS Projects\ConcertPreformer\obj\Debug\MainWindow.g.cs
+C:\VS Projects\ConcertPreformer\obj\Debug\App.g.cs
+C:\VS Projects\ConcertPreformer\obj\Debug\ConcertPreformer_MarkupCompile.cache
+C:\VS Projects\ConcertPreformer\obj\Debug\ConcertPreformer_MarkupCompile.lref
+C:\VS Projects\ConcertPreformer\obj\Debug\MainWindow.baml
+C:\VS Projects\ConcertPreformer\obj\Debug\ConcertPreformer.g.resources
+C:\VS Projects\ConcertPreformer\obj\Debug\ConcertPreformer.Properties.Resources.resources
+C:\VS Projects\ConcertPreformer\obj\Debug\ConcertPreformer.csproj.GenerateResource.Cache

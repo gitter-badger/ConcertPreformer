@@ -1,0 +1,14 @@
+﻿<Window x:Class="ConcertPreformer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConcertPreformer"
+        mc:Ignorable="d"
+        Title="Concert Preformer" Height="376.316" Width="592.105" Loaded="Window_Loaded" KeyDown="Window_KeyDown">
+    <Grid>
+        <Label x:Name="LastPlayedLabel" Content="" HorizontalAlignment="Left" Margin="10,309,0,0" VerticalAlignment="Top" Width="564"/>
+        <Button x:Name="btnChangeKey" Content="Change key link to sound" HorizontalAlignment="Left" Margin="10,93,0,0" VerticalAlignment="Top" Width="149" Click="btnChangeKey_Click"/>
+
+    </Grid>
+</Window>
