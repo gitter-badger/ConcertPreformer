@@ -1,0 +1,6 @@
+{
+  "name": "Concertpreformer",
+  "tagline": "A Windows application that allows you to bind a key with a sound file, giving you the ability to make songs using your keyboard as an instrument.",
+  "body": "# ConcertPreformer\r\nA Windows application that allows you to bind a key with a sound file, giving you the ability to make songs using your keyboard as an instrument.\r\n## Installation\r\nThe app is still in beta, so no \"releases\" have been published, however, you can still download the last successful build here:<br>https://github.com/bitsol/ConcertPreformer/blob/master/ConcertPreformer/bin/Debug/ConcertPreformer.exe?raw=true\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
